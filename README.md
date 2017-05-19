@@ -1,4 +1,4 @@
-# Encoding and Sending Formatted Text
+# Internet Simulator part 3: Encoding and Sending Formatted Text
 Directions:
 -----------
 Work with a partner or in a small team to develop a protocol that allows you to send formatted text.
